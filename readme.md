@@ -68,3 +68,34 @@ A collection of resources, thoughts, essays and papers in response to Don't Read
 
 '[Women Should Keep Reading the Comments](http://www.wired.com/2015/05/women-keep-reading-comments/)," Molly McHugh in Wired, writing on the experience of watching a webcast of Google I/O in May of 2015.
 
+### Thoughts about Comments
+
+What if you could choose between different styles of interaction for each topic or story?
+
+* Comments throughout, the way Medium does it?
+* Some conversations and stories do not end.  What about forum/group-like forms of engagement?
+* What about specific asks, rather than a general, blank comment box?
+* Standard comments (responsive, below, general) 
+* One comment per user, character-limited
+* No Comments
+* No comments unless moderated
+* Comments of all sorts automatically close  
+
+
+### Thoughts about moderation
+
+* Moderation is often thought of as an effort to get rid of "bad" comments and "bad" commenters. 
+* Hostile and aggressive commenters are likely to "come in hot," that is, they sign up specifically to post an angry comment.  A great deal of "bad" commenting happens in a user's first ten comments.  What if we had a way to shape early commenting?
+* There are a million forms of centralized and distributed moderation.  At some point, a list.  
+
+### Community policies/rules of engagement
+
+Let's collect example policies.  
+
+### Sidebar on community between programmers and journalists
+
+"[How I Try To Work With Journalists](http://liveblog.co/users/davewiner/2015/06/01/howITryToWorkWithJournalists.html)," Dave Winer 
+
+
+
+
