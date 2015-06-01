@@ -6,6 +6,8 @@ A collection of resources, thoughts, essays and papers in response to Don't Read
 
 * [Don't Read The Comments](https://chrome.google.com/webstore/detail/dont-read-the-comments/nlhmhpppjnlbdfgebinkgjiljipnejbe?hl=en"), a Chrome app that removes the comments from web pages.
 
+* [NPR Plays April Fools' Joke On People Who Don't Read](http://gawker.com/npr-pulled-a-brilliant-april-fools-prank-on-people-who-1557745710), Gawker's note on NPR's April Fools' prank demonstrating that many people don't read the article before they comment.  Notable: NPR uses Facebook comments.  Many people feel that "real identities" will solve the problem of venom in online commenting.
+
 
 *It has become the way of the Internet. We have come to understand that the comments section is not unlike the Internet’s own septic system: it sits below every post and video and article, collecting all the trash and shit and evil clowns that have been cast down from above. It’s positively dystopian. Up above are the elites, zipping about on their information superhighway, while below, the underpass has some kind of violent hobo fight club playing out again and again.* 
 
@@ -29,4 +31,15 @@ A collection of resources, thoughts, essays and papers in response to Don't Read
 
 -- "[Comment sections are poison: handle with care or remove them](http://www.theguardian.com/science/brain-flapping/2014/sep/12/comment-sections-toxic-moderation)," Tauriq Moosa, The Guardian
 
+*Tung said there are a couple of specific challenges when it comes to analyzing these kinds of discussions. For one thing, comments are often presented in a JavaScript widget, so it’s not as straightforward as pulling the text — it requires “a bunch of visual analysis,” he said. For another, discussions often use more casual, colloquial, and emoji-heavy English, so Diffbot needed to develop “a more specialized language model.”*
+
+--"[Don't Read The Comments: Let Diffbot Analyze Them](http://techcrunch.com/2015/03/31/diffbot-discussions-api/)," Anthony Ha quoting Diffbot founder Mike Tung in TechCrunch  
+
+*One of the reasons I launched the Discourse project was due to the utter lack of understanding of how you build software to help online discussion communities moderate themselves. Their survival depends on it.* 
+
+--"[Do Read The Comments](http://blog.codinghorror.com/please-read-the-comments/)," Jeff Atwood, on his blog Coding Horror
+
+*Respondents who saw comments evaluated the article as being of lower quality—an 8 percent difference. In other words, authors are judged not just by what they write, but by how people respond.*
+
+--"[How Comments Shape Perceptions of Sites' Quality—and Affect Traffic](http://www.theatlantic.com/technology/archive/2014/06/internet-comments-and-perceptions-of-quality/371862/), Adam Felder, The Atlantic
 
