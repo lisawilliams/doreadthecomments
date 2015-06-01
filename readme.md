@@ -23,7 +23,7 @@ A collection of resources, thoughts, essays and papers in response to Don't Read
 
 *I admit it’s depressing for one who’s invested almost her entire career in online community to throw in the towel on it in this way. I want it to be better. But it’s just not. As a colleague once observed, “I just can’t take another letter from Angry Bad Divorce Guy.” And my reading the comments – even participating in the conversation – won’t change that.*
 
--- "[I'm Never Reading the Comments Again](http://www.salon.com/2012/10/25/im_never_reading_the_comments_again/)," -- Mary Elizabeth Williams, salon
+-- "[I'm Never Reading the Comments Again](http://www.salon.com/2012/10/25/im_never_reading_the_comments_again/)," -- Mary Elizabeth Williams, Salon
 
 *There is also an increasingly accepted fallacy, a cousin to “don’t read the comments”, if you will, that it’s just “how the Internet is.” That abuse against historically marginalized groups should be accepted, because, hey, everybody is abused equally here (a categorically untrue assessment, but there are many who genuinely believe it.) That in order to earn the right to use the internet one must first bathe in the fires of sexism, racism, or misogyny and come out unscathed, because “that’s how the Internet is” and to brave the Internet is to implicitly accept this agreement. To challenge it is to deny the Internet’s Internet-ness, its infallible status quo.*
 
@@ -55,8 +55,6 @@ A collection of resources, thoughts, essays and papers in response to Don't Read
 
 -- "[Don't Read The Comments](http://www.ebony.com/life/dont-read-the-comments-504#ixzz3botOpTab), Sharisse Tracy, writing in Ebony Magazine about the hateful comments left on an educational video featuring her tween daughter.  
 
-Read more at EBONY http://www.ebony.com/life/dont-read-the-comments-504#ixzz3botOpTab 
-Follow us: @EbonyMag on Twitter | EbonyMag on Facebook
 
 *Marginalized groups—in this case, undocumented immigrant minors—can be placed into categories that devalue and dehumanize them. Such dehumanization can justify or encourage anything from the restriction of life-saving resources to the outright killing of those no longer seen as valuable to human society. The great danger in these comments, then, is not only that they homogenize undocumented minors and undocumented immigrants, but that they dehumanize them as well. As a rhetoric of uprooting “pests” becomes more acceptable, the lives of undocumented immigrants are devalued—be it for race, ethnicity, immigration status, or socioeconomic status—and militarized “solutions” to both their migration and existence become more palatable and “logical.”*
 
