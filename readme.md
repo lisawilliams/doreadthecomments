@@ -62,4 +62,11 @@ Follow us: @EbonyMag on Twitter | EbonyMag on Facebook
 
 "[Don't Read the Comments?  As Immigration Advocates, We Must](http://rhrealitycheck.org/article/2015/01/13/dont-read-comments-immigration-advocates-must/)," Patrick Mullen, William Lopez and Alana LeBron writing in RH Reality Check
 
+*It’s strange to be watching some of the most groundbreaking, innovative technology in the world, while your peripheral vision is populated by racist, misogynist garbage-speak...The presenters—at least the male presenters—were mocked and ridiculed for their stupid, stupid ideas.*
+
+*But something different happened every time a woman took the stage.*
+
+*The mean comments got a little meaner, the dark ones a little darker, and everything became entirely unfocused on the subject at hand. Suddenly, people were talking about the presenter’s body and clothing. Or worse. The women who spoke at length at Google I/O—namely, VP of Engineering for Maps Jen Fitzpatrick and Google Play Product Manager Ellie Powers—were ridiculed for their appearances, or “praised” to lengths that definitely equate to harassment.*
+
+'[Women Should Keep Reading the Comments](http://www.wired.com/2015/05/women-keep-reading-comments/)," Molly McHugh in Wired, writing on the experience of watching a webcast of Google I/O in May of 2015.
 
