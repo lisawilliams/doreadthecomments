@@ -6,6 +6,8 @@ A collection of resources, thoughts, essays and papers in response to Don't Read
 
 * [Don't Read The Comments](https://chrome.google.com/webstore/detail/dont-read-the-comments/nlhmhpppjnlbdfgebinkgjiljipnejbe?hl=en"), a Chrome app that removes the comments from web pages.
 
+* [Don't Read The Comments t-shirt](http://www.neatoshop.com/product/Dont-Read-the-Comments), featuring a pink princess.  Related: [Never Read The Comments necklaces, needlepoint samplers, and other products on Etsy](https://www.etsy.com/listing/88691969/never-read-the-comments-necklace).
+
 * [NPR Plays April Fools' Joke On People Who Don't Read](http://gawker.com/npr-pulled-a-brilliant-april-fools-prank-on-people-who-1557745710), Gawker's note on NPR's April Fools' prank demonstrating that many people don't read the article before they comment.  Notable: NPR uses Facebook comments.  Many people feel that "real identities" will solve the problem of venom in online commenting.
 
 
@@ -42,4 +44,8 @@ A collection of resources, thoughts, essays and papers in response to Don't Read
 *Respondents who saw comments evaluated the article as being of lower quality—an 8 percent difference. In other words, authors are judged not just by what they write, but by how people respond.*
 
 --"[How Comments Shape Perceptions of Sites' Quality—and Affect Traffic](http://www.theatlantic.com/technology/archive/2014/06/internet-comments-and-perceptions-of-quality/371862/), Adam Felder, The Atlantic
+
+*Comments can be bad for science. That's why, here at PopularScience.com, we're shutting them off.*
+
+-- "[Why We're Shutting Off Our Comments,](http://www.popsci.com/science/article/2013-09/why-were-shutting-our-comments)," Suzanne Brossard, Popular Science
 
