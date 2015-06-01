@@ -6,7 +6,7 @@ A collection of resources, thoughts, essays and papers in response to Don't Read
 
 * [Don't Read The Comments](https://chrome.google.com/webstore/detail/dont-read-the-comments/nlhmhpppjnlbdfgebinkgjiljipnejbe?hl=en"), a Chrome app that removes the comments from web pages.
 
-* [Don't Read The Comments t-shirt](http://www.neatoshop.com/product/Dont-Read-the-Comments), featuring a pink princess.  Related: [Never Read The Comments necklaces, needlepoint samplers, and other products on Etsy](https://www.etsy.com/listing/88691969/never-read-the-comments-necklace).
+* [Don't Read The Comments t-shirt](http://www.neatoshop.com/product/Dont-Read-the-Comments), featuring a pink princess.  Related: [Never Read The Comments necklaces, needlepoint samplers, and other products on Etsy](https://www.etsy.com/listing/88691969/never-read-the-comments-necklace). Here's a [letterpressed version of the sentiment](http://juliannehing.com/post/53316731078/awkwardladies-dont-read-the-comments-on-news) for interior decorating purposes.
 
 * [NPR Plays April Fools' Joke On People Who Don't Read](http://gawker.com/npr-pulled-a-brilliant-april-fools-prank-on-people-who-1557745710), Gawker's note on NPR's April Fools' prank demonstrating that many people don't read the article before they comment.  Notable: NPR uses Facebook comments.  Many people feel that "real identities" will solve the problem of venom in online commenting.
 
@@ -41,6 +41,8 @@ A collection of resources, thoughts, essays and papers in response to Don't Read
 
 --"[Do Read The Comments](http://blog.codinghorror.com/please-read-the-comments/)," Jeff Atwood, on his blog Coding Horror
 
+* Jeff has VC funding to create what he hopes will be "the Wordpress of forums," a project called [Discourse/Civilized Discourse Kit](http://blog.codinghorror.com/civilized-discourse-construction-kit/)  The source code is [here on Github](https://github.com/discourse/discourse).  You can see Discourse forums at BoingBoing.  Here's a [Discourse forum for Discourse users on Discourse](https://meta.discourse.org/).
+
 *Respondents who saw comments evaluated the article as being of lower quality—an 8 percent difference. In other words, authors are judged not just by what they write, but by how people respond.*
 
 --"[How Comments Shape Perceptions of Sites' Quality—and Affect Traffic](http://www.theatlantic.com/technology/archive/2014/06/internet-comments-and-perceptions-of-quality/371862/), Adam Felder, The Atlantic
@@ -48,4 +50,16 @@ A collection of resources, thoughts, essays and papers in response to Don't Read
 *Comments can be bad for science. That's why, here at PopularScience.com, we're shutting them off.*
 
 -- "[Why We're Shutting Off Our Comments,](http://www.popsci.com/science/article/2013-09/why-were-shutting-our-comments)," Suzanne Brossard, Popular Science
+
+*I had expected to see comments about some of the kids being too young. That would be a natural reaction. An honest one. I’m sure each parent had thought long and hard about letting their child participate. I know my husband and I did. But what I didn’t expect to see was such intolerance. Such ignorance. And such vicious racism. Even now, in 2015, seeing the “N” word infuriates me but directed at my child and me? In all caps? Only to be followed by how other races are superior to my own. With the final insult reading something like, “Why are the dark kids the only ones without fathers? Anyone else noticing a trend?” It was too much.*
+
+-- "[Don't Read The Comments](http://www.ebony.com/life/dont-read-the-comments-504#ixzz3botOpTab), Sharisse Tracy, writing in Ebony Magazine about the hateful comments left on an educational video featuring her tween daughter.  
+
+Read more at EBONY http://www.ebony.com/life/dont-read-the-comments-504#ixzz3botOpTab 
+Follow us: @EbonyMag on Twitter | EbonyMag on Facebook
+
+*Marginalized groups—in this case, undocumented immigrant minors—can be placed into categories that devalue and dehumanize them. Such dehumanization can justify or encourage anything from the restriction of life-saving resources to the outright killing of those no longer seen as valuable to human society. The great danger in these comments, then, is not only that they homogenize undocumented minors and undocumented immigrants, but that they dehumanize them as well. As a rhetoric of uprooting “pests” becomes more acceptable, the lives of undocumented immigrants are devalued—be it for race, ethnicity, immigration status, or socioeconomic status—and militarized “solutions” to both their migration and existence become more palatable and “logical.”*
+
+"[Don't Read the Comments?  As Immigration Advocates, We Must](http://rhrealitycheck.org/article/2015/01/13/dont-read-comments-immigration-advocates-must/)," Patrick Mullen, William Lopez and Alana LeBron writing in RH Reality Check
+
 
