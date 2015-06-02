@@ -21,9 +21,6 @@ There are a number of interesting projects out there in the world, or underway, 
 
 ## A Reading List 
 
-* [NPR Plays April Fools' Joke On People Who Don't Read](http://gawker.com/npr-pulled-a-brilliant-april-fools-prank-on-people-who-1557745710), Gawker's note on NPR's April Fools' prank demonstrating that many people don't read the article before they comment.  Notable: NPR uses Facebook comments.  Many people feel that "real identities" will solve the problem of venom in online commenting.
-
-
 *It has become the way of the Internet. We have come to understand that the comments section is not unlike the Internet’s own septic system: it sits below every post and video and article, collecting all the trash and shit and evil clowns that have been cast down from above. It’s positively dystopian. Up above are the elites, zipping about on their information superhighway, while below, the underpass has some kind of violent hobo fight club playing out again and again.* 
 
 -- [Don't Read The Comments: Comment Sections Are Our Own Fault](http://terribleminds.com/ramble/2015/04/21/dont-read-the-comments-comment-sections-are-our-own-fault/)," Chuck Wendig, Terrible Minds
@@ -49,6 +46,8 @@ There are a number of interesting projects out there in the world, or underway, 
 *Respondents who saw comments evaluated the article as being of lower quality—an 8 percent difference. In other words, authors are judged not just by what they write, but by how people respond.*
 
 --"[How Comments Shape Perceptions of Sites' Quality—and Affect Traffic](http://www.theatlantic.com/technology/archive/2014/06/internet-comments-and-perceptions-of-quality/371862/), Adam Felder, The Atlantic
+
+[NPR Plays April Fools' Joke On People Who Don't Read](http://gawker.com/npr-pulled-a-brilliant-april-fools-prank-on-people-who-1557745710)Gawker's note on NPR's April Fools' prank demonstrating that many people don't read the article before they comment.  Notable: NPR uses Facebook comments.  Many people feel that "real identities" will solve the problem of venom in online commenting.
 
 *Comments can be bad for science. That's why, here at PopularScience.com, we're shutting them off.*
 
