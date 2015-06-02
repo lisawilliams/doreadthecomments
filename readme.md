@@ -2,7 +2,7 @@
 
 A collection of resources, thoughts, essays and papers in response to Don't Read The Comments. 
 
-Do you want to add to this repository? [Here's a beginner's guide](https://nerds.inn.org/2015/03/17/contributing-to-the-inn-nerds-docs-repo-using-github-com/). Just substitute this repository for the one used as an example in the tutorial.  
+This is a working, unfinished document. Do you want to add to this repository? [Here's a beginner's guide](https://nerds.inn.org/2015/03/17/contributing-to-the-inn-nerds-docs-repo-using-github-com/). Just substitute this repository for the one used as an example in the tutorial.  
 
 * Don't Read The Comments' twitter account, [@AvoidComments](https://twitter.com/avoidcomments). *It's notable that the account shut down in December of 2014*
 
