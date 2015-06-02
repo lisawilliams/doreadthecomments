@@ -17,6 +17,7 @@ There are a number of interesting projects out there in the world, or underway, 
 * **Geiger**  Francis Tseng describes this as:"Get a sense of the comments from a safe distance: Here I propose an automated system for grouping similar comments and then identifying the best representative from each group. These selections can be used to identify the popular themes being discussed and construct a high-level summary of the discussion in the comments. [Proposal](https://github.com/ftzeng/geiger/blob/master/proposal/proposal.md) [Repository on Github]
 * **Discourse**  Jeff Atwood describes his motivations for starting the Discourse project: *One of the reasons I launched the Discourse project was due to the utter lack of understanding of how you build software to help online discussion communities moderate themselves. Their survival depends on it.* [Blog post:Do Read The Comments](http://blog.codinghorror.com/please-read-the-comments/) Jeff has VC funding to create what he hopes will be "the Wordpress of forums," a project called [Discourse/Civilized Discourse Kit](http://blog.codinghorror.com/civilized-discourse-construction-kit/)  The source code is [here on Github](https://github.com/discourse/discourse).  You can see Discourse forums at BoingBoing.  Here's a [Discourse forum for Discourse users on Discourse](https://meta.discourse.org/).
 * **Diffbot** From a TechCrunch article on the product: *[Founder Mike]Tung said there are a couple of specific challenges when it comes to analyzing these kinds of discussions. For one thing, comments are often presented in a JavaScript widget, so it’s not as straightforward as pulling the text — it requires “a bunch of visual analysis,” he said. For another, discussions often use more casual, colloquial, and emoji-heavy English, so Diffbot needed to develop “a more specialized language model.”* [Don't Read The Comments: Let Diffbot Analyze Them](http://techcrunch.com/2015/03/31/diffbot-discussions-api/) 
+* **side-comments.js** An interface component that allows developers to build in Medium-style side comments into an app or a site.  [Github](https://github.com/aroc/side-comments) [Demo](http://aroc.github.io/side-comments-demo/)
 
 ## A Reading List 
 
@@ -104,7 +105,7 @@ Let's collect example policies.
 
 ### Why bother?
 
-*Opinion/thought in progress*  
+*Opinion/thoughts in progress*  
 
 1. Comments are an engine of relevancy.  You cannot have engagement without relevance.  Comments, good, bad, and indifferent, reveal what's relevant to the people viewing that page.  Notably, people comment even when they haven't read a story.  Why?  Because they want to express themselves about something relevant and important *to them.*
 2. A community is not "people come to talk to us about stuff we produce."  A community is when people come to your site to talk to *each other.*
