@@ -10,6 +10,16 @@ Do you want to add to this repository? [Here's a beginner's guide](https://nerds
 
 * [Don't Read The Comments t-shirt](http://www.neatoshop.com/product/Dont-Read-the-Comments), featuring a pink princess.  Related: [Never Read The Comments necklaces, needlepoint samplers, and other products on Etsy](https://www.etsy.com/listing/88691969/never-read-the-comments-necklace). Here's a [letterpressed version of the sentiment](http://juliannehing.com/post/53316731078/awkwardladies-dont-read-the-comments-on-news) for interior decorating purposes.
 
+## Code
+
+There are a number of interesting projects out there in the world, or underway, that attempt to make sense of and provide better tools for online community and discussion.  
+
+* **Geiger**  Francis Tseng describes this as:"Get a sense of the comments from a safe distance: Here I propose an automated system for grouping similar comments and then identifying the best representative from each group. These selections can be used to identify the popular themes being discussed and construct a high-level summary of the discussion in the comments. [Proposal](https://github.com/ftzeng/geiger/blob/master/proposal/proposal.md) [Repository on Github]
+* **Discourse**  Jeff Atwood describes his motivations for starting the Discourse project: *One of the reasons I launched the Discourse project was due to the utter lack of understanding of how you build software to help online discussion communities moderate themselves. Their survival depends on it.* [Blog post:Do Read The Comments](http://blog.codinghorror.com/please-read-the-comments/) Jeff has VC funding to create what he hopes will be "the Wordpress of forums," a project called [Discourse/Civilized Discourse Kit](http://blog.codinghorror.com/civilized-discourse-construction-kit/)  The source code is [here on Github](https://github.com/discourse/discourse).  You can see Discourse forums at BoingBoing.  Here's a [Discourse forum for Discourse users on Discourse](https://meta.discourse.org/).
+* **Diffbot** From a TechCrunch article on the product: *[Founder Mike]Tung said there are a couple of specific challenges when it comes to analyzing these kinds of discussions. For one thing, comments are often presented in a JavaScript widget, so it’s not as straightforward as pulling the text — it requires “a bunch of visual analysis,” he said. For another, discussions often use more casual, colloquial, and emoji-heavy English, so Diffbot needed to develop “a more specialized language model.”* [Don't Read The Comments: Let Diffbot Analyze Them](http://techcrunch.com/2015/03/31/diffbot-discussions-api/) 
+
+## A Reading List 
+
 * [NPR Plays April Fools' Joke On People Who Don't Read](http://gawker.com/npr-pulled-a-brilliant-april-fools-prank-on-people-who-1557745710), Gawker's note on NPR's April Fools' prank demonstrating that many people don't read the article before they comment.  Notable: NPR uses Facebook comments.  Many people feel that "real identities" will solve the problem of venom in online commenting.
 
 
@@ -34,16 +44,6 @@ Do you want to add to this repository? [Here's a beginner's guide](https://nerds
 *...comment sections shouldn’t be the rule, but they should be a carefully managed gift to readers on an article-by-article basis. That means readers should be thankful they’re allowed to comment directly on the site – not feel infringed when it’s not there.*
 
 -- "[Comment sections are poison: handle with care or remove them](http://www.theguardian.com/science/brain-flapping/2014/sep/12/comment-sections-toxic-moderation)," Tauriq Moosa, The Guardian
-
-*Tung said there are a couple of specific challenges when it comes to analyzing these kinds of discussions. For one thing, comments are often presented in a JavaScript widget, so it’s not as straightforward as pulling the text — it requires “a bunch of visual analysis,” he said. For another, discussions often use more casual, colloquial, and emoji-heavy English, so Diffbot needed to develop “a more specialized language model.”*
-
---"[Don't Read The Comments: Let Diffbot Analyze Them](http://techcrunch.com/2015/03/31/diffbot-discussions-api/)," Anthony Ha quoting Diffbot founder Mike Tung in TechCrunch  
-
-*One of the reasons I launched the Discourse project was due to the utter lack of understanding of how you build software to help online discussion communities moderate themselves. Their survival depends on it.* 
-
---"[Do Read The Comments](http://blog.codinghorror.com/please-read-the-comments/)," Jeff Atwood, on his blog Coding Horror
-
-* Jeff has VC funding to create what he hopes will be "the Wordpress of forums," a project called [Discourse/Civilized Discourse Kit](http://blog.codinghorror.com/civilized-discourse-construction-kit/)  The source code is [here on Github](https://github.com/discourse/discourse).  You can see Discourse forums at BoingBoing.  Here's a [Discourse forum for Discourse users on Discourse](https://meta.discourse.org/).
 
 *Respondents who saw comments evaluated the article as being of lower quality—an 8 percent difference. In other words, authors are judged not just by what they write, but by how people respond.*
 
