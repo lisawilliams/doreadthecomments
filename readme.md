@@ -96,6 +96,15 @@ Let's collect example policies.
 
 "[How I Try To Work With Journalists](http://liveblog.co/users/davewiner/2015/06/01/howITryToWorkWithJournalists.html)," Dave Winer 
 
+### Why bother?
+
+*Opinion/thought in progress*  
+
+1. Comments are an engine of relevancy.  You cannot have engagement without relevance.  Comments, good, bad, and indifferent, reveal what's relevant to the people viewing that page.  Notably, people comment even when they haven't read a story.  Why?  Because they want to express themselves about something relevant and important *to them.*
+2. A community is not "people come to talk to us about stuff we produce."  A community is when people come to your site to talk to *each other.*
+
+
+
 
 
 
