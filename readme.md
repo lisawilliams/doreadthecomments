@@ -94,6 +94,10 @@ What if you could choose between different styles of interaction for each topic 
 
 Let's collect example policies.  
 
+* Crooked Timber's [policy on sockpuppets](http://crookedtimber.org/notes-for-trolls-sockpuppets-and-other-pests/).
+* [Comments policy](http://stateimpact.npr.org/comments-policy/) for NPR's StateImpact project.  
+* [Why We're Changing Our Comments Policy](http://www.nationaljournal.com/domesticpolicy/why-we-re-changing-our-comments-policy-20140516)," National Journal, November, 2014. They closed comments on most public stories and left comments open only to National Journal "members" (subscribers?): "We're going to start by leaving the comment sections open and visible to National Journal's members, a group that's highly unlikely to live by Godwin's Law." 
+
 ### Sidebar on community between programmers and journalists
 
 "[How I Try To Work With Journalists](http://liveblog.co/users/davewiner/2015/06/01/howITryToWorkWithJournalists.html)," Dave Winer 
