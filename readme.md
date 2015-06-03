@@ -110,7 +110,9 @@ Let's collect example policies.
 ### Sidebar on community between programmers and journalists
 
 "[How I Try To Work With Journalists](http://liveblog.co/users/davewiner/2015/06/01/howITryToWorkWithJournalists.html)," Dave Winer 
+
 "[Working with Developers in the Newsroom](http://veltman.tumblr.com/post/67071731151/working-with-developers-in-the-newsroom)," Noah Veltman
+
 "[Great lies of our time: journalists and coders should sit together to create amazing stuff](https://theoverspill.wordpress.com/2015/05/29/great-lies-of-our-time-journalists-and-coders-should-sit-together-to-create-amazing-stuff/)," Charles Arthur
 
 ### Scholarly Papers
