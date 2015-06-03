@@ -110,6 +110,18 @@ Let's collect example policies.
 ### Sidebar on community between programmers and journalists
 
 "[How I Try To Work With Journalists](http://liveblog.co/users/davewiner/2015/06/01/howITryToWorkWithJournalists.html)," Dave Winer 
+"[Working with Developers in the Newsroom](http://veltman.tumblr.com/post/67071731151/working-with-developers-in-the-newsroom)," Noah Veltman
+"[Great lies of our time: journalists and coders should sit together to create amazing stuff](https://theoverspill.wordpress.com/2015/05/29/great-lies-of-our-time-journalists-and-coders-should-sit-together-to-create-amazing-stuff/)," Charles Arthur
+
+### Scholarly Papers
+
+"Enhancing clustering blog documents by using reader comments," Li, et al. [PDF of paper](http://pages.stern.nyu.edu/~bli/beibei1.pdf)  *(what if conversation WAS navigation? All great content features are alternatives to search.)*
+
+"Expressing Social Relationships on the Blog through Links and Comments," Ali-Hassan, et al. [PDF of paper](http://www.icwsm.org/papers/2--Ali-Hasan--Adamic.pdf) Explores another "forgotten" feature: Blogrolls.  The more I look the more I realize that it is the community *between* sites that has collapsed the most dramatically.  
+
+"Exploiting Conversational Features to Detect High-Quality Blog Comments," FitzGerald, et al. [PDF of paper](http://www.ufv.ca/media/assets/computer-information-systems/gabriel-murray/publications/canai-2011.pdf) This looks promising. 
+
+"Leave a Reply: An Analysis of Weblog Comments,"  Mishne, et al. [PDF of paper](http://www.ambuehler.ethz.ch/CDstore/www2006/www.blogpulse.com/www2006-workshop/papers/wwe2006-blogcomments.pdf)  Old, from 2006, but mines a large corpus of comments, and has the intriguing idea of "comments as 'missing' content."
 
 ### Why bother?
 
