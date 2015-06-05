@@ -10,7 +10,7 @@ Support for the sentiment behind Don't Read The Comments was so strong that it i
 
 * [Don't Read The Comments](https://chrome.google.com/webstore/detail/dont-read-the-comments/nlhmhpppjnlbdfgebinkgjiljipnejbe?hl=en"), a Chrome app that removes the comments from web pages.
 
-* [Don't Read The Comments t-shirt](http://www.neatoshop.com/product/Dont-Read-the-Comments), featuring a pink princess.  Related: [Never Read The Comments necklaces, needlepoint samplers, and other products on Etsy](https://www.etsy.com/listing/88691969/never-read-the-comments-necklace). Here's a [letterpressed version of the sentiment](http://juliannehing.com/post/53316731078/awkwardladies-dont-read-the-comments-on-news) for interior decorating purposes.
+* [Don't Read The Comments t-shirt](http://www.neatoshop.com/product/Dont-Read-the-Comments), featuring a pink princess.  Related: [Never Read The Comments necklaces, needlepoint samplers, and other products on Etsy](https://www.etsy.com/listing/88691969/never-read-the-comments-necklace). Here's a [letterpressed version of the sentiment](http://juliannehing.com/post/53316731078/awkwardladies-dont-read-the-comments-on-news) for interior decorating purposes.  "Don't read the comments" has become a [dharma burger](http://www.lionsroar.com/nuts-for-mindfulness/) for online communities.
 
 ## Code
 
@@ -24,6 +24,18 @@ There are a number of interesting projects out there in the world, or underway, 
 * **isso** Bills itself as an alternative to Disqus. [Github](https://github.com/posativ/isso)
 * **Epoch** "Epoch - 100% realtime chat and commenting in a tiny little package that is fully CDN and cache compatible." [Github](https://github.com/postmatic/epoch)
 * **Guess That Subreddit** Odd, but funny, and an example of how commenters can form distinct communities: "Web app where you try to guess the subreddit based on pulled comments" [Github](https://github.com/gwrong/GuessThatSubreddit)
+
+## Listening to
+
+Porter Haney, creator of polling tool "[Wedgies](https://www.wedgies.com/)," at IRE 2015, Friday, June 5, 2015
+
+Haney sees polling as a "more structured" way to collect user feedback on stories -- more structured (and, in his opinion, higher quality) than typical comment sections.  "To get the highest response, you should solicit that response where your readers are, in particular on social media."  
+
+Haney: "**Not every reader has a comment, but every reader has an opinion.**  Polls give you a way to express themselves back to your organization, but they can often stay anonymous, and you end up with structured data you can read later."
+
+*I do think of clicking as a 'gateway drug' to commenting; and I agree with Haney's assessment that there are a lot of readers who don't feel entitled or motivated to comment, and engaging these audience members may do much to balance online communities that have gravitated toward extreme places.*
+
+
 
 ## A Reading List 
 
