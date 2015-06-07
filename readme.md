@@ -101,6 +101,10 @@ Many people do not realize that blogs existed for years before comments became a
 
 From Michael Erard's excellent essay, "[No Comments](http://www.nytimes.com/2013/09/22/magazine/no-comments.html?pagewanted=all&_r=0)," NYT, 9/2013.  Link spam and the death of the Trackback forced us back into using search engines, primarily Google, as our way to find and identify conversations; the links to conversations across sites were largely gone.  (When it comes to content, including comment, all features are, at one level, alternatives to search; features that survive provide us something that a list of search results do not).
 
+*On Tuesday morning, Imgur’s community manager Sarah Schaaf says she woke up to discover the revolt, and posted an explanation to the site’s community. Schaaf explained: “the rules have always been around and have never permitted NSFW content, but in the past they lived offsite, they were infrequently enforced, and reports were only made as attacks on other users”. Previously, she explained, community enforcement involved the complete removal of a comment, with no evidence left that it had ever been there, and even a “shadow ban” of the user, hiding their posts from others without informing them that action has been taken.*
+
+[IMGUR faces backlash as it begins to cull NSFW comments from site](http://www.theguardian.com/technology/2015/jun/03/imgur-faces-user-revolt-over-tighter-community-controls-nsfw), June 2015 Guardian
+
 
 ### Thoughts about Comments
 
@@ -130,6 +134,9 @@ Let's collect example policies.
 * Crooked Timber's [policy on sockpuppets](http://crookedtimber.org/notes-for-trolls-sockpuppets-and-other-pests/).
 * [Comments policy](http://stateimpact.npr.org/comments-policy/) for NPR's StateImpact project.  
 * [Why We're Changing Our Comments Policy](http://www.nationaljournal.com/domesticpolicy/why-we-re-changing-our-comments-policy-20140516)," National Journal, November, 2014. They closed comments on most public stories and left comments open only to National Journal "members" (subscribers?): "We're going to start by leaving the comment sections open and visible to National Journal's members, a group that's highly unlikely to live by Godwin's Law." 
+* [The Verge's Community Guidelines](http://www.theverge.com/pages/community-guidelines) "We love comments" (!) 
+* [Scriblio](http://scriblio.net/policy/comments/) "We LOVE to hear from you, and we think of this blog as a big dinner party. Y’all are our invited guests, but if you’re being rude and obnoxious we’ll let the bouncer toss you."
+* [NPR's Discussion Rules](http://www.npr.org/help/discussionrules.html)
 
 ### Sidebar on community between programmers and journalists
 
