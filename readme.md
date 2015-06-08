@@ -105,6 +105,10 @@ From Michael Erard's excellent essay, "[No Comments](http://www.nytimes.com/2013
 
 [IMGUR faces backlash as it begins to cull NSFW comments from site](http://www.theguardian.com/technology/2015/jun/03/imgur-faces-user-revolt-over-tighter-community-controls-nsfw), June 2015 Guardian
 
+*"I have been monitoring the community since we introduced badging, which Reddit calls flair, approximately four months ago. Anecdotally, the conversations have been at a higher quality and more people have been participating in the comment sections."* 
+
+[What happens when you allow badging in comment sections?](http://socialmediadesk.tumblr.com/post/101670504116/what-happens-when-you-allow-badging-in-comments) Melody Kramer, NPR Social Media Desk
+
 
 ### Thoughts about Comments
 
