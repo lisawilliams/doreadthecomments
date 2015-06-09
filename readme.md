@@ -107,6 +107,20 @@ From Michael Erard's excellent essay, "[No Comments](http://www.nytimes.com/2013
 
 *"I have been monitoring the community since we introduced badging, which Reddit calls flair, approximately four months ago. Anecdotally, the conversations have been at a higher quality and more people have been participating in the comment sections."* 
 
+Submitted by Melody Kramer (thank you, [Melody](https://github.com/melodykramer)!)
+
+*What Happens When You Allow Badging in Comments:*
+
+*1. create affiliate communities within the larger comment section.*
+
+*2. improve the commenting experience. Though people would still be anonymous, they would be revealing something about themselves through an affiliation, which would lead to better comments.*
+
+*3. lead to communities that might head off line (to events, etc.)*
+
+*4. lessen the hostility seen in most comment sections.*
+
+*5. connect stations with members and potential members*
+
 [What happens when you allow badging in comment sections?](http://socialmediadesk.tumblr.com/post/101670504116/what-happens-when-you-allow-badging-in-comments) Melody Kramer, NPR Social Media Desk
 
 
