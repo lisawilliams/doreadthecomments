@@ -123,6 +123,8 @@ Submitted by Melody Kramer (thank you, [Melody](https://github.com/melodykramer)
 
 [What happens when you allow badging in comment sections?](http://socialmediadesk.tumblr.com/post/101670504116/what-happens-when-you-allow-badging-in-comments) Melody Kramer, NPR Social Media Desk
 
+Twitter now allows [sharing block lists](https://blog.twitter.com/2015/sharing-block-lists-to-help-make-twitter-safer).  Now messaging/social platforms get their own RBLs, just like email has had for many years. 
+
 
 ### Thoughts about Comments
 
