@@ -2,7 +2,7 @@
 
 A collection of resources, thoughts, essays and papers in response to Don't Read The Comments.
 
-This is a working, unfinished document. Do you want to add to this repository? [Here's a beginner's guide](https://nerds.inn.org/2015/03/17/contributing-to-the-inn-nerds-docs-repo-using-github-com/). Just substitute this repository for the one used as an example in the tutorial.  
+This is a working, unfinished document. Do you want to add to this repository? [Here's a beginner's guide](https://nerds.inn.org/2015/03/17/contributing-to-the-inn-nerds-docs-repo-using-github-com/). Just substitute this repository for the one used as an example in the tutorial.  If that feels like too much, you can [comment here](https://github.com/lisawilliams/doreadthecomments/issues/new) (you'll need a free Github account) and if that still feels like too much you can find me on The Twitter, where I am [@lisawilliams](http://twitter.com/lisawilliams).
 
 * Don't Read The Comments' twitter account, [@AvoidComments](https://twitter.com/avoidcomments). *It's notable that the account shut down in December of 2014*
 
@@ -25,6 +25,10 @@ There are a number of interesting projects out there in the world, or underway, 
 * **Epoch** "Epoch - 100% realtime chat and commenting in a tiny little package that is fully CDN and cache compatible." [Github](https://github.com/postmatic/epoch)
 * **Guess That Subreddit** Odd, but funny, and an example of how commenters can form distinct communities: "Web app where you try to guess the subreddit based on pulled comments" [Github](https://github.com/gwrong/GuessThatSubreddit)
 
+## Resources
+
+[NewsU Course: "Don't Turn Them Off!  How To Improve Online Comment Sections](https://www.newsu.org/courses/dont-turn-them-how-improve-online-comment-sections)
+
 ## Listening to
 
 **Porter Haney, creator of polling tool "[Wedgies](https://www.wedgies.com/)," at IRE 2015, Friday, June 5, 2015**
@@ -45,6 +49,10 @@ Haney: "We work with a lot of publications that just have trolls in their commen
 
 
 ## A Reading List 
+
+*"And sometimes it gets too intense. What we’ve found lately is that the tone of our comments (and some of our commenters) is getting a little too aggressive and negative — a change that feels like it started with GamerGate and has steadily gotten worse ever since. It’s hard for us to do our best work in that environment, and it’s even harder for our staff to hang out with our audience and build the relationships that led to us having a great community in the first place."* 
+
+-- "[Verge Turns Off Comments 'For A Super-Chill Summer'](http://www.poynter.org/news/mediawire/355573/the-verge-temporarily-cans-comments-for-a-super-chill-summer/)", Nilay Patel as quoted in Poynter
 
 *It has become the way of the Internet. We have come to understand that the comments section is not unlike the Internet’s own septic system: it sits below every post and video and article, collecting all the trash and shit and evil clowns that have been cast down from above. It’s positively dystopian. Up above are the elites, zipping about on their information superhighway, while below, the underpass has some kind of violent hobo fight club playing out again and again.* 
 
