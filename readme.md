@@ -29,24 +29,6 @@ There are a number of interesting projects out there in the world, or underway, 
 
 [NewsU Course: "Don't Turn Them Off!  How To Improve Online Comment Sections](https://www.newsu.org/courses/dont-turn-them-how-improve-online-comment-sections)
 
-## Listening to
-
-**Porter Haney, creator of polling tool "[Wedgies](https://www.wedgies.com/)," at IRE 2015, Friday, June 5, 2015**
-
-Haney sees polling as a "more structured" way to collect user feedback on stories -- more structured (and, in his opinion, higher quality) than typical comment sections.  "To get the highest response, you should solicit that response where your readers are, in particular on social media."  
-
-Haney: "**Not every reader has a comment, but every reader has an opinion.**  Polls give you a way to express themselves back to your organization, but they can often stay anonymous, and you end up with structured data you can read later."
-
-*I do think of clicking as a 'gateway drug' to commenting; and I agree with Haney's assessment that there are a lot of readers who don't feel entitled or motivated to comment, and engaging these audience members may do much to balance online communities that have gravitated toward extreme places.*
-
-Haney gave a few use examples:  
-
-Las Vegas Review Journal used it to ask two questions:  "Who would you rather drive with, a taxi, or Uber?" and "Should lawmakers pass bills to allow Uber and other ride-sharing services to operate in Nevada?"  **1 in 5 of their readers voted.  1 in 6 shared their vote out to their own social media presence, boosting readership.**
-
-Wall Street Journal wanted to know if their telephone polling results would correspond with their online channel votes.  They asked, "Do you agree with the Supreme Court's ruling on the Hobby Lobby case?"  Response was 10X the telephone polls, but the online poll did align with the telephone poll results (only two points difference)  
-
-Haney: "We work with a lot of publications that just have trolls in their comments, people who don't add anything.  So to make comments look good, they have to strictly moderate them, and they don't have the resources.  So the default has been to not moderate them or take them off.  **We have a lot of customers who end up using the product just so they don't have to have comments on every article.**"
-
 
 ## A Reading List 
 
@@ -133,6 +115,23 @@ Submitted by Melody Kramer (thank you, [Melody](https://github.com/melodykramer)
 
 Twitter now allows [sharing block lists](https://blog.twitter.com/2015/sharing-block-lists-to-help-make-twitter-safer).  Now messaging/social platforms get their own RBLs, just like email has had for many years. 
 
+## Listening to
+
+**Porter Haney, creator of polling tool "[Wedgies](https://www.wedgies.com/)," at IRE 2015, Friday, June 5, 2015**
+
+Haney sees polling as a "more structured" way to collect user feedback on stories -- more structured (and, in his opinion, higher quality) than typical comment sections.  "To get the highest response, you should solicit that response where your readers are, in particular on social media."  
+
+Haney: "**Not every reader has a comment, but every reader has an opinion.**  Polls give you a way to express themselves back to your organization, but they can often stay anonymous, and you end up with structured data you can read later."
+
+*I do think of clicking as a 'gateway drug' to commenting; and I agree with Haney's assessment that there are a lot of readers who don't feel entitled or motivated to comment, and engaging these audience members may do much to balance online communities that have gravitated toward extreme places.*
+
+Haney gave a few use examples:  
+
+Las Vegas Review Journal used it to ask two questions:  "Who would you rather drive with, a taxi, or Uber?" and "Should lawmakers pass bills to allow Uber and other ride-sharing services to operate in Nevada?"  **1 in 5 of their readers voted.  1 in 6 shared their vote out to their own social media presence, boosting readership.**
+
+Wall Street Journal wanted to know if their telephone polling results would correspond with their online channel votes.  They asked, "Do you agree with the Supreme Court's ruling on the Hobby Lobby case?"  Response was 10X the telephone polls, but the online poll did align with the telephone poll results (only two points difference)  
+
+Haney: "We work with a lot of publications that just have trolls in their comments, people who don't add anything.  So to make comments look good, they have to strictly moderate them, and they don't have the resources.  So the default has been to not moderate them or take them off.  **We have a lot of customers who end up using the product just so they don't have to have comments on every article.**"
 
 ### Thoughts about Comments
 
